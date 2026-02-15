@@ -1,25 +1,27 @@
 # Hi there, I'm Muhammad Zaid 👋
 
 ### 🚀 About Me
-I am a dedicated **Student** and an aspiring **Full-Stack Developer**. Currently, I am mastering the foundations of web development by combining practical projects with deep theoretical knowledge.
+I am a dedicated **Student** and an aspiring **Full-Stack Developer**. Having mastered the art of crafting beautiful layouts with HTML & CSS, I am now diving deep into the logic behind the web.
 
-- 🔭 I’m currently learning: **HTML & Web Fundamentals**
+- 🔭 I’m currently learning: **JavaScript (Logic, DOM Manipulation, and ES6+)**
 - 📚 Primary Resources: **freeCodeCamp** & **MDN Web Docs**
 - 🛡️ My Focus: **Web Security, Privacy, and Digital Safety**
-- ♿ I care deeply about: **Web Accessibility (a11y) & Smooth Navigation**
+- ♿ I care deeply about: **Web Accessibility (a11y) & Interactive UI**
 - 🧩 Passionate about: **Problem Solving and Bug Hunting**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-- **Documentation & Research:** ![MDN Docs](https://img.shields.io/badge/MDN_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-- **Learning Platforms:** ![freeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23121011.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
+- **Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- **Currently Learning:** ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- **Platforms:** ![MDN Docs](https://img.shields.io/badge/MDN_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+  ![freeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23121011.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 ---
 
 ### 🎯 My Goals
-After mastering Full-Stack Development, my ultimate goal is to dive deep into **Web Security**. I want to build applications that are not only functional but also respect user privacy and are accessible to everyone.
+Abhi mera focus **JavaScript** ke zariye static pages ko dynamic aur interactive banana hai. Iske baad, mera ultimate goal **Web Security** mein expert banna hai taake main safe aur privacy-focused applications build kar sakoon.
 
 ---
 
